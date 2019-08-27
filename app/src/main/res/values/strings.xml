@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloApp</string>
+    <string name="calculate_button_lbl">Calculate</string>
+    <string name="length1">Length 1</string>
+    <string name="length2">Length 2</string>
+    <string name="clear_button_lbl">Clear</string>
+    <string name="shape_Text" />
+</resources>
